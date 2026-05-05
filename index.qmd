@@ -3,9 +3,11 @@ title: "Noelle Broughton, PhD"
 subtitle: "Housing Policy and Administration Researcher"
 ---
 
+![](headshot.jpeg){width=200px style="border-radius: 50%;"}
+
 *Studying how bureaucratic privatization decisions undermine housing justice.*
 
-[CV](#) · [Google Scholar](https://scholar.google.com/citations?user=KcgSSwcAAAAJ&hl=en&oi=ao) · [GitHub](https://github.com/noelle-broughton)
+[CV](broughton_cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=KcgSSwcAAAAJ&hl=en&oi=ao)
 
 **Incoming Postdoctoral Researcher** // Glenn College of Public Affairs & The Kirwin Institute, *The Ohio State University*
 
