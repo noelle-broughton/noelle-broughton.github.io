@@ -1,0 +1,11 @@
+---
+title: "Research"
+---
+
+## Publications
+
+**Using Large Language Models in Research: An Experiment with the Narrative Policy Framework** (forthcoming)  
+R&R at *Policy Studies Journal*  
+
+**Preemption and Generational Health Equity: The Role of Forced Inaction in Shaping Outcomes** (2026)  
+[*Milbank Quarterly*](https://doi.org/10.1111/1468-0009.70078)
